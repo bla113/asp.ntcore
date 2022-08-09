@@ -1,0 +1,15 @@
+/home/bladimir/Documentos/GitHub/asp.ntcore/bin/Debug/net6.0/asp.ntcore
+/home/bladimir/Documentos/GitHub/asp.ntcore/bin/Debug/net6.0/asp.ntcore.deps.json
+/home/bladimir/Documentos/GitHub/asp.ntcore/bin/Debug/net6.0/asp.ntcore.runtimeconfig.json
+/home/bladimir/Documentos/GitHub/asp.ntcore/bin/Debug/net6.0/asp.ntcore.dll
+/home/bladimir/Documentos/GitHub/asp.ntcore/bin/Debug/net6.0/asp.ntcore.pdb
+/home/bladimir/Documentos/GitHub/asp.ntcore/obj/Debug/net6.0/asp.ntcore.csproj.AssemblyReference.cache
+/home/bladimir/Documentos/GitHub/asp.ntcore/obj/Debug/net6.0/asp.ntcore.GeneratedMSBuildEditorConfig.editorconfig
+/home/bladimir/Documentos/GitHub/asp.ntcore/obj/Debug/net6.0/asp.ntcore.AssemblyInfoInputs.cache
+/home/bladimir/Documentos/GitHub/asp.ntcore/obj/Debug/net6.0/asp.ntcore.AssemblyInfo.cs
+/home/bladimir/Documentos/GitHub/asp.ntcore/obj/Debug/net6.0/asp.ntcore.csproj.CoreCompileInputs.cache
+/home/bladimir/Documentos/GitHub/asp.ntcore/obj/Debug/net6.0/asp.ntcore.dll
+/home/bladimir/Documentos/GitHub/asp.ntcore/obj/Debug/net6.0/refint/asp.ntcore.dll
+/home/bladimir/Documentos/GitHub/asp.ntcore/obj/Debug/net6.0/asp.ntcore.pdb
+/home/bladimir/Documentos/GitHub/asp.ntcore/obj/Debug/net6.0/asp.ntcore.genruntimeconfig.cache
+/home/bladimir/Documentos/GitHub/asp.ntcore/obj/Debug/net6.0/ref/asp.ntcore.dll
